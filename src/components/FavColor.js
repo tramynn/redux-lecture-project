@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 
-export default class Profile extends Component {
+export default class FavColor extends Component {
     render() {
         return(
             <div>
-                <input />
+                <h1>FavColor</h1>
             </div>
         )
     }

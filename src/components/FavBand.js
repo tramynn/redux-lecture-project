@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 
-export default class Profile extends Component {
+export default class FavBand extends Component {
     render() {
         return(
             <div>
-                <input />
+                <h1>FavBand</h1>
             </div>
         )
     }
